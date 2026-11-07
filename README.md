@@ -1,2 +1,1 @@
-# govt-comment-resolution-v2
-probe
+Scratch repo. Safe to delete.
